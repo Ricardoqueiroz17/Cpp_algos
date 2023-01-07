@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\ricar\source\repos\Udemy_Cpp\20221022_Quiz2Darrays\Main.cpp(9,8): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned int (*)[3]'
+C:\Users\ricar\source\repos\Udemy_Cpp\20221022_Quiz2Darrays\Main.cpp(9,8): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned int *'
+C:\Users\ricar\source\repos\Udemy_Cpp\20221022_Quiz2Darrays\Main.cpp(9,8): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 3 has type 'unsigned int *'
+  20221022_Quiz2Darrays.vcxproj -> C:\Users\ricar\source\repos\Udemy_Cpp\20221022_Quiz2Darrays\Debug\20221022_Quiz2Darrays.exe
